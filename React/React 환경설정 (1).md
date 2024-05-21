@@ -15,7 +15,7 @@ create-react-app(CRA)을 이용하면 쉽게 리액트 프로젝트를 시작할
 7. `public` 디렉터리 생성
 8. `package.json` 설정
 
-### 1. `package.json` 생성
+### 1. package.json 생성
 
 ```bash
 npm init -y
