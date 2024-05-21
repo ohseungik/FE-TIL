@@ -2,15 +2,15 @@
 
 ## 1. CRA 없이 리액트를 시작해야 하는 이유
 
-`create-react-app`(CRA)을 이용하면 쉽게 리액트 프로젝트를 시작할 수 있지만, 설정을 커스터마이징하기 어렵습니다. 이 때문에, 직접 설정을 구성하는 방법을 선택할 수 있습니다.
+create-react-app(CRA)을 이용하면 쉽게 리액트 프로젝트를 시작할 수 있지만, 설정을 커스터마이징하기 어렵습니다. 이 때문에, 직접 설정을 구성하는 방법을 선택할 수 있습니다.
 
 ## 2. 구축 순서
 
 1. `package.json` 생성
-2. React, Typescript 설치
-3. webpack, webpack plugins, loader, devServer 설치
-4. webpack, typescript 설정
-5. prettier 설정
+2. `React`, `Typescript` 설치
+3. `webpack`, `webpack plugins`, `loader`, `devServer` 설치
+4. `webpack`, `typescript` 설정
+5. `prettier` 설정
 6. `src` 디렉터리 생성
 7. `public` 디렉터리 생성
 8. `package.json` 설정
@@ -38,7 +38,7 @@ npm i html-webpack-plugin webpack-dev-server ts-loader --dev
 
 ### 4. 4. webpack, typescript 설정
 
-# webpack.common.js
+#### webpack.common.js
 
 ```javascript
 
@@ -80,7 +80,7 @@ module.exports = {
   },
 };
 ```
-# webpack.dev.js
+#### webpack.dev.js
 
 ```javascript
 const { merge } = require('webpack-merge');
@@ -97,7 +97,7 @@ module.exports = merge(common, {
 });
 ```
 
-# webpack.prod.js
+#### webpack.prod.js
 
 ```javascript
 const { merge } = require('webpack-merge');
@@ -122,7 +122,7 @@ module.exports = merge(common, {
 
 ### 6. src 디렉터리 생성
 
-# src/index.tsx
+#### src/index.tsx
 
 ```typescript
 import App from './App';
@@ -137,7 +137,7 @@ root.render(
 );
 ```
 
-# src/App.tsx
+#### src/App.tsx
 
 ```typescript
 const App = () => {
@@ -149,7 +149,7 @@ export default App;
 
 ### 7. public 디렉터리 생성
 
-# public/index.html
+#### public/index.html
 
 ```html
 <!DOCTYPE html>

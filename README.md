@@ -8,5 +8,4 @@ Today I Learned<br>
 
 
 ## React
-  - React 환경설정 create-react-app을 쓰는 경우 (http)
-  - React 환경설정 create-react-app을 안쓰는 경우
+  - React 환경설정 (https://github.com/ohseungik/FE-TIL/blob/main/React/React%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%20(1).md)
