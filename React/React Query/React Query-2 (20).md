@@ -8,7 +8,7 @@
 
 # React Query 튜토리얼(1) - 환경 설정, useQuery, handle Error, devtools
 
-[React Query의 장점들을 알았으니](https://github.com/FE-Lex-Kim/-TIL/blob/master/React/React%20Query.md), 직접 사용하는 방법에 대해 알아보자.
+[React Query의 장점들을 알았으니](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query%20(19).md), 직접 사용하는 방법에 대해 알아보자.
 
 <br>
 
@@ -72,7 +72,7 @@ console.log(result);
 
 **Query에 대한 정보들이 반환된다.**
 
-![React Query 튜토리얼(1) - 환경 설정, useQuery, handle Error, devtools](<.../Images/React%20Query-2-1.png>)
+![React Query-2-1](<.../Images/React%20Query/React%20Query-2-1.png>)
 
 <br>
 
@@ -181,7 +181,7 @@ export const RQSuperHeroesPage = () => {
 
 **그 이유는 useQuery가 데이터 요청 실패시, 자동으로 재요청을 한다.**
 
-![React Query 튜토리얼(1) - 환경 설정, useQuery, handle Error, devtools](<../Images/React%20Query-2-2.png>)
+![React Query-2-2](<.../Images/React%20Query/React%20Query-2-2.png>)
 
 **4번정도 재요청을 하는것으로 보인다.**
 
@@ -248,13 +248,13 @@ export default App;
 
 이제 React를 실행해보면, 오른쪽 아래에 React Query 로고가 있다.
 
-![React Query 튜토리얼(1) - 환경 설정, useQuery, handle Error, devtools](<../Images/React%20Query-2-3.png>)
+![React Query-2-3](<.../Images/React%20Query/React%20Query-2-3.png>)
 
 <br>
 
 해당 로고를 클릭하면, devtool이 나타난다.
 
-![React Query 튜토리얼(1) - 환경 설정, useQuery, handle Error, devtools](<../Images/React%20Query-2-4.png>)
+![React Query-2-4](<.../Images/React%20Query/React%20Query-2-4.png>)
 
 <br>
 
