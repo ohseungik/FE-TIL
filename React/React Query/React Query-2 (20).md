@@ -254,7 +254,7 @@ export default App;
 
 해당 로고를 클릭하면, devtool이 나타난다.
 
-![React Query-2-4](<../../Images/React%20Query/React%20Query-2-4.png)
+![React Query-2-4](<../../Images/React%20Query/React%20Query-2-4.png>)
 
 <br>
 
