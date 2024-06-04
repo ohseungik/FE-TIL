@@ -271,7 +271,7 @@ const { isLoading, data } = useQuery("super-heroes", () => {
 <br>
 
 **키는 이후에 공부할 캐싱때 사용된다.**
-
+  y
 오른쪽 박스는 query에 대한 여러가지 정보들이 나와있다.
 
 <br>
