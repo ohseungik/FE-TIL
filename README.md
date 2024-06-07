@@ -32,3 +32,5 @@ Today I Learned<br>
   - [React Query-4](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-4%20(22).md)
   - [React Query-5](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-5%20(23).md)
   - [React Query-6](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-6%20(24).md)
+  - [React Query-7](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-7%20(25).md)
+  - [React Query-8](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-8%20(26).md)
