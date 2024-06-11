@@ -38,3 +38,5 @@ Today I Learned<br>
 ## TypeScript
   - [TypeScript-1](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-1%20(27).md)
   - [TypeScript-2](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-2%20(28).md)
+  - [TypeScript-3](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-3%20(29).md)
+  - [TypeScript-4](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-4%20(30).md)
