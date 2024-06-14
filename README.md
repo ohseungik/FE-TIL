@@ -48,3 +48,4 @@ Today I Learned<br>
 
 ## Next
   - [Next-1](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-1%20(36).md)
+  - [Next-2](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-2%20(37).md)
