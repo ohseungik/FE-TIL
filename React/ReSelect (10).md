@@ -52,10 +52,6 @@ const CounterContainer = () => {
 
 <br>
 
-[**이러한 단점을 해결하기 위해 여러가지 방법이 있지만**](https://github.com/FE-Lex-Kim/-TIL/blob/master/React/react-redux.md#useselector-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD),
-
-<br>
-
 Reselect를 통해 쉽게 구현가능하다.
 
 <br>

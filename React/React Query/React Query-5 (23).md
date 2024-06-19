@@ -192,7 +192,6 @@ useQuery를 여러번 호출하는 방법에 대해 위에서 알아보았다.
 **하지만 매번 렌더시마다 실행되는 useQuery의 개수가 다르다면, Hooks 규칙에 위반된다.**
 
 - **각 컴포넌트 별로, Hooks를 관리하는 배열의 순서를 기억한다.** 하지만 만약 렌더마다 실행되는 Hooks가 다르다면, **이전 렌더때 Hooks의 배열 순서와 다르기 때문에 크게 문제가 생긴다.**
-- 만약 잘 이해가 안된다면, [**Vanilla Javascript useState**](https://github.com/FE-Lex-Kim/-TIL/blob/master/React/Vanilla%20Javascript%20useState.md) 을 만들어봐서, 동작원리를 이해하면 된다.
 
 <br>
 

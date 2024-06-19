@@ -562,8 +562,6 @@ history를 props를 통해 전달받는다고 했다.
 1. withRouter
 2. useHistory, useMatch, useLocation, useRouteMatch
 
-[두번째 Hooks를 사용한 Routing 방법](https://github.com/FE-Lex-Kim/-TIL/blob/master/React/useHistory%2C%20useLocation%2C%20usePrams%2C%20useRouteMatch.md)
-
 <br>
 
 ### withRouter

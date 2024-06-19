@@ -53,3 +53,5 @@ Today I Learned<br>
   - [Next-3](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-3%20(39).md)
   - [Next-4](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-4%20(40).md)
   - [Next-5](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-5%20(41).md)
+  - [Next-6](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-6%20(42).md)
+  - [Next-7](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-7%20(43).md)
