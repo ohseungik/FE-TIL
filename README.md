@@ -62,3 +62,7 @@ Today I Learned<br>
 ## Cypress
   - [Cypress-1](https://github.com/ohseungik/FE-TIL/blob/main/Cypress/Cypress-1%20(45).md)
   - [Cypress-2](https://github.com/ohseungik/FE-TIL/blob/main/Cypress/Cypress-2%20(46).md)
+
+## Jest
+  - [Jest-1](https://github.com/ohseungik/FE-TIL/blob/main/Jest/Jest-1%20(48).md)
+  - [Jest-2](https://github.com/ohseungik/FE-TIL/blob/main/Jest/Jest-2%20(49).md)
