@@ -98,7 +98,7 @@ Object {
 
 <br>
 
-![Jest 스냅샷](/Images/Jest%20스냅샷/Jest%20스냅샷-1.png)
+![Jest 스냅샷](<../Images/Jest/Jest-1.png>)
 
 <br>
 
