@@ -36,6 +36,8 @@ Today I Learned<br>
   - [React Query-6](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-6%20(24).md)
   - [React Query-7](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-7%20(25).md)
   - [React Query-8](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20Query/React%20Query-8%20(26).md)
+  - [Duplicate Click Event](https://github.com/ohseungik/FE-TIL/blob/main/React/Duplicate%20Click%20Event%20(52).md)
+  - [Infinite Carousel](https://github.com/ohseungik/FE-TIL/blob/main/React/Infinite%20Carousel%20(53).md) 
 
 ## TypeScript
   - [TypeScript-1](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-1%20(27).md)
