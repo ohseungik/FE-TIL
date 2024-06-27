@@ -40,7 +40,8 @@ Today I Learned<br>
   - [Infinite Carousel](https://github.com/ohseungik/FE-TIL/blob/main/React/Infinite%20Carousel%20(53).md) 
   - [SWR](https://github.com/ohseungik/FE-TIL/blob/main/React/SWR%20(54).md) 
   - [Error Boundaries](https://github.com/ohseungik/FE-TIL/blob/main/React/Error%20Boundaries%20(55).md) 
-
+  - [Function Component Error Boundaries](https://github.com/ohseungik/FE-TIL/blob/main/React/Function%20Component%20Error%20Boundaries%20(56).md) 
+  - [Styled Component](https://github.com/ohseungik/FE-TIL/blob/main/React/Styled%20Component%20(57).md) 
 
 ## TypeScript
   - [TypeScript-1](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-1%20(27).md)
