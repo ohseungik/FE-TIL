@@ -12,7 +12,7 @@ Today I Learned<br>
 
 ## CS
   - [TDD](https://github.com/ohseungik/FE-TIL/blob/main/CS/TDD%20(47).md)
-  - [Reflow Repaint](https://github.com/ohseungik/FE-TIL/blob/main/CS/Reflow%20Repaint(58).md)
+  - [Reflow Repaint](https://github.com/ohseungik/FE-TIL/blob/main/CS/Reflow%20Repaint%20(58).md)
   - [Skeleton UI](https://github.com/ohseungik/FE-TIL/blob/main/CS/Skeleton%20UI%20(59).md)
 
 
