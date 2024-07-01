@@ -157,7 +157,7 @@ Gray.args = {
 
 Storybook을 보면 모든 컴포넌트들은 좌상단에 고정되어 있다.
 
-![Storybook](<../Images/Storybook/Storybook-2-1.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-1.png>)
 
 <br>
 
@@ -273,7 +273,7 @@ Storybook은 수백개의 애드온들이 NPM에 있다.
 
 [**필수적인 애드온**](https://storybook.js.org/addons/tag/essentials/)에 대해 알아보자.
 
-![Storybook](<../Images/Storybook/Storybook-2-2.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-2.png>)
 
 <br>
 
@@ -281,7 +281,7 @@ Storybook은 수백개의 애드온들이 NPM에 있다.
 
 **Light, Dark 모드**를 디자인 할때 쉽게 바꿀 수 있게해 유용하다.
 
-![Storybook](<../Images/Storybook/Storybook-2-3.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-3.png>)
 
 <br>
 
@@ -333,13 +333,13 @@ arg에 type을 설정해서 UI로 설정이 가능하다.
 
 <br>
 
-![Storybook](<../Images/Storybook/Storybook-2-4.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-4.png>)
 
 <br>
 
 **Controls 애드온에서 사용할 수 있는 argType이다.**
 
-![Storybook](<../Images/Storybook/Storybook-2-5.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-5.png>)
 
 <br>
 
@@ -394,7 +394,7 @@ Docs 애드온은 각각의 **스토리들을 documentation** 으로 만들어�
 
 docs는 스토리, 컴포넌트, 소스 코드, 환경 설정이 없는 버전... 등등 다양한 정보를 포함해 보여준다.
 
-![Storybook](<../Images/Storybook/Storybook-2-6.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-6.png>)
 
 <br>
 
@@ -404,7 +404,7 @@ Viewport 애드온은 **다른** **viewport로 테스트 가능하게 도와준�
 
 **반응형 디자인**을 할때 유용하다.
 
-![Storybook](<../Images/Storybook/Storybook-2-7.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-7.png>)
 
 <br>
 
@@ -412,7 +412,7 @@ Viewport 애드온은 **다른** **viewport로 테스트 가능하게 도와준�
 
 Outline 애드온은 **모든 각각의 요소들의 CSS 레이아웃을 시각적으로 보여준다.**
 
-![Storybook](<../Images/Storybook/Storybook-2-8.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-8.png>)
 
 <br>
 
@@ -422,7 +422,7 @@ Outline 애드온은 **모든 각각의 요소들의 CSS 레이아웃을 시각�
 
 선택한 요소의 margin, padding, border, width, hegiht을 px 단위로 보여준다.
 
-![Storybook](<../Images/Storybook/Storybook-2-9.png>)
+![Storybook](<../Images/StoryBook/Storybook-2-9.png>)
 
 <br>
 

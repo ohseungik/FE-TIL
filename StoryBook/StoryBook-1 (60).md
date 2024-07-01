@@ -58,7 +58,7 @@ npm run storybook
 
 storybook에 설정된 환경에따라 해당 로컬 주소로 새로운 브라우저가 띄어진다.
 
-![Storybook](../Images/Storybook/Storybook-1-1.png)
+![Storybook](../Images/StoryBook/Storybook-1-1.png)
 
 storybook을 최초에 설치했을때, **같이 추가된 stories 파일들이 좌측에 있다.**
 
@@ -77,7 +77,7 @@ ex)
 - StoryBook../Button.js
 - StoryBook../Button.stories.js
 
-![Storybook](../Images/Storybook/Storybook-1-2.png)
+![Storybook](../Images/StoryBook/Storybook-1-2.png)
 
 <br>
 
@@ -131,7 +131,7 @@ stories.js 파일에서 **하나의 컴포넌트는 다양한 스토리를 가�
 - `excludeStories` : Storybook에서 스토리를 내보낼 때 렌더링에서 제외하는 것
 - `argTypes` :  -- 각각의 스토리에서 [인수(args)](https://storybook.js.org/docs/react/api/argtypes)의 행동 방식을 정해준다.
 
-![Storybook](../Images/Storybook/Storybook-1-3.png)
+![Storybook](../Images/StoryBook/Storybook-1-3.png)
 
 <br>
 
@@ -186,7 +186,7 @@ export const tomato = () => <Button color="tomato">tomato</Button>;
 
 <br>
 
-![Storybook](../Images/Storybook/Storybook-1-4.png)
+![Storybook](../Images/StoryBook/Storybook-1-4.png)
 
 <br>
 
@@ -253,7 +253,7 @@ preview.js 파일에서 options 프로퍼티를 통해 **정렬하는 방식을 
 
 <br>
 
-![Storybook](../Images/Storybook/Storybook-1-5.png)
+![Storybook](../Images/StoryBook/Storybook-1-5.png)
 
 위와 같이 button - about 순으로 정렬되어있다.
 
@@ -274,7 +274,7 @@ export const parameters = {
 };
 ```
 
-![Storybook](../Images/Storybook/Storybook-1-6.png)
+![Storybook](../Images/StoryBook/Storybook-1-6.png)
 
 <br>
 
