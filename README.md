@@ -51,7 +51,7 @@ Today I Learned<br>
   - [Function Component Error Boundaries](https://github.com/ohseungik/FE-TIL/blob/main/React/Function%20Component%20Error%20Boundaries%20(56).md) 
   - [Styled Component](https://github.com/ohseungik/FE-TIL/blob/main/React/Styled%20Component%20(57).md) 
   - [Redux](https://github.com/ohseungik/FE-TIL/blob/main/React/Redux%20(64).md) 
-  - [Redux Toolkit](https://github.com/ohseungik/FE-TIL/blob/main/React/Redux%20Toolkit(65).md) 
+  - [Redux Toolkit](https://github.com/ohseungik/FE-TIL/blob/main/React/Redux%20Toolkit%20(65).md) 
 
 
 
