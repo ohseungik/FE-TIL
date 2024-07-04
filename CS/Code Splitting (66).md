@@ -225,13 +225,13 @@ Modal과 같은 특정 이벤트가 발생할때도 가능하다.
 
 **A페이지 진입시**
 
-![code splitting, Lazy loading](<../Images/Code%20Splitting/Code%20Splitting-1.png>)
+![code splitting, Lazy loading](<../Images/Code%20Splitting/code%20Splitting-1.png>)
 
 <br>
 
 **A 페이지에서 B 페이지로 진입시**
 
-![code splitting, Lazy loading](<../Images/Code%20Splitting/Code%20Splitting-2.png>)
+![code splitting, Lazy loading](<../Images/Code%20Splitting/code%20Splitting-2.png>)
 
 <br>
 
@@ -255,13 +255,13 @@ B페이지로 접근했을때, B페이지인 **1.chunk.js**와 **4.chunk.js을 �
 
 A페이지
 
-![code splitting, Lazy loading](<../Images/Code%20Splitting/Code%20Splitting-3.png>)
+![code splitting, Lazy loading](<../Images/Code%20Splitting/code%20Splitting-3.png>)
 
 <br>
 
 A페이지에서 B페이지로 접근시
 
-![code splitting, Lazy loading](<../Images/Code%20Splitting/Code%20Splitting-4.png>)
+![code splitting, Lazy loading](<../Images/Code%20Splitting/code%20Splitting-4.png>)
 
 <br>
 
@@ -304,7 +304,7 @@ Suspense 컴포넌트를 통해 **다른페이지를 로드하는 시간동안, 
 
 lazy loading을 사용하지 않으면 모든 컨텐츠를 최초에 모두 로드한다.
 
-![code splitting, Lazy loading](<../Images/Code%20Splitting/Code%20Splitting-5.png>)
+![code splitting, Lazy loading](<../Images/Code%20Splitting/code%20Splitting-5.png>)
 
 <br>
 
@@ -312,7 +312,7 @@ lazy loading을 사용하지 않으면 모든 컨텐츠를 최초에 모두 로�
 
 이렇게 최초에 렌더할때 모든 페이지를 로드하는것이 아니라 번들파일을 나누어서 로드한다.
 
-![code splitting, Lazy loading](<../Images/Code%20Splitting/Code%20Splitting-6.png>)
+![code splitting, Lazy loading](<../Images/Code%20Splitting/code%20Splitting-6.png>)
 
 <br>
 
