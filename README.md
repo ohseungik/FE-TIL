@@ -20,6 +20,7 @@ Today I Learned<br>
   - [Code Splitting](https://github.com/ohseungik/FE-TIL/blob/main/CS/Code%20Splitting%20(66).md)
   - [Cache](https://github.com/ohseungik/FE-TIL/blob/main/CS/Cache%20(70).md)
   - [Translate, Absolute](https://github.com/ohseungik/FE-TIL/blob/main/CS/Translate,%20Absolute%20(71).md)
+  - [DeBounce, Throttle](https://github.com/ohseungik/FE-TIL/blob/main/CS/DeBounce,%20Throttle%20(72).md)
 
 
 ## React
@@ -99,3 +100,6 @@ Today I Learned<br>
   - [Webpack-1](https://github.com/ohseungik/FE-TIL/blob/main/Webpack/Webpack-1%20(67).md)
   - [Webpack-2](https://github.com/ohseungik/FE-TIL/blob/main/Webpack/Webpack-2%20(68).md)
   - [Webpack-3](https://github.com/ohseungik/FE-TIL/blob/main/Webpack/Webpack-3%20(69).md)
+
+## TailwindCSS
+  - [TailwindCSS-1](https://github.com/ohseungik/FE-TIL/blob/main/TailwindCSS/TailwindCSS-1%20(73).md)
