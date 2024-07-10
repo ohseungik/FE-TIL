@@ -59,6 +59,7 @@ Today I Learned<br>
   - [Styled Component](https://github.com/ohseungik/FE-TIL/blob/main/React/Styled%20Component%20(57).md) 
   - [Redux](https://github.com/ohseungik/FE-TIL/blob/main/React/Redux%20(64).md) 
   - [Redux Toolkit](https://github.com/ohseungik/FE-TIL/blob/main/React/Redux%20Toolkit%20(65).md) 
+  - [Controlled Component](https://github.com/ohseungik/FE-TIL/blob/main/React/Controlled%20Component%20(75).md) 
 
 ## TypeScript
   - [TypeScript-1](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-1%20(27).md)
@@ -104,3 +105,4 @@ Today I Learned<br>
 
 ## TailwindCSS
   - [TailwindCSS-1](https://github.com/ohseungik/FE-TIL/blob/main/TailwindCSS/TailwindCSS-1%20(73).md)
+  - [TailwindCSS-2](https://github.com/ohseungik/FE-TIL/blob/main/TailwindCSS/TailwindCSS-2%20(74).md)
