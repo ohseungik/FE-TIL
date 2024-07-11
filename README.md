@@ -22,6 +22,8 @@ Today I Learned<br>
   - [Cache](https://github.com/ohseungik/FE-TIL/blob/main/CS/Cache%20(70).md)
   - [Translate, Absolute](https://github.com/ohseungik/FE-TIL/blob/main/CS/Translate,%20Absolute%20(71).md)
   - [DeBounce, Throttle](https://github.com/ohseungik/FE-TIL/blob/main/CS/DeBounce,%20Throttle%20(72).md)
+  - [SPA](https://github.com/ohseungik/FE-TIL/blob/main/CS/SPA%20(76).md)
+  - [MSW](https://github.com/ohseungik/FE-TIL/blob/main/CS/MSW%20(77).md)
 
 
 ## React
