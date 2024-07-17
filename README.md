@@ -27,7 +27,8 @@ Today I Learned<br>
   - [Closure](https://github.com/ohseungik/FE-TIL/blob/main/CS/Closure%20(78).md)
   - [This](https://github.com/ohseungik/FE-TIL/blob/main/CS/This%20(79).md)
   - [Viewport](https://github.com/ohseungik/FE-TIL/blob/main/CS/Viewport%20(80).md)
-  - [Media Query](https://github.com/ohseungik/FE-TIL/blob/main/CS/Media%20Query%20(81).md)
+  - [Atomic Pattern](https://github.com/ohseungik/FE-TIL/blob/main/CS/Atomic%20Pattern%20(82).md)
+  - [Progressive rendering](https://github.com/ohseungik/FE-TIL/blob/main/CS/Progressive%20rendering%20(83).md)
 
 ## React
   - [React 환경설정](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%20(1).md)
