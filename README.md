@@ -38,6 +38,8 @@ Today I Learned<br>
   - [CSS-UNITS](https://github.com/ohseungik/FE-TIL/blob/main/CS/CSS-UNITS%20(90).md) 
   - [HTTP Header](https://github.com/ohseungik/FE-TIL/blob/main/CS/HTTP%20Header%20(91).md) 
   - [Storage](https://github.com/ohseungik/FE-TIL/blob/main/CS/Storage%20(93).md)
+  - [Semantic Markup](https://github.com/ohseungik/FE-TIL/blob/main/CS/Semantic%20Markup%20(94).md)
+  - [SEO](https://github.com/ohseungik/FE-TIL/blob/main/CS/SEO%20(95).md)
 
 ## React
   - [React 환경설정](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%20(1).md)
