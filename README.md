@@ -40,6 +40,8 @@ Today I Learned<br>
   - [Storage](https://github.com/ohseungik/FE-TIL/blob/main/CS/Storage%20(93).md)
   - [Semantic Markup](https://github.com/ohseungik/FE-TIL/blob/main/CS/Semantic%20Markup%20(94).md)
   - [SEO](https://github.com/ohseungik/FE-TIL/blob/main/CS/SEO%20(95).md)
+  - [Domain Sharding](https://github.com/ohseungik/FE-TIL/blob/main/CS/Domain%20Sharding(96).md)
+  - [Scope Chaning](https://github.com/ohseungik/FE-TIL/blob/main/CS/Scope%20Chaning(97).md)
 
 ## React
   - [React 환경설정](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%20(1).md)
