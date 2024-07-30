@@ -13,6 +13,10 @@ Today I Learned<br>
   - [Webpack](#webpack)
   - [TailwindCSS](#tailwindcss)
 
+## Library
+  - [D3](https://github.com/ohseungik/FE-TIL/blob/main/Library/D3%20(98).md)
+  - [pdfmake](https://github.com/ohseungik/FE-TIL/blob/main/Library/pdfmake%20(99).md)
+
 ## CS
   - [TDD](https://github.com/ohseungik/FE-TIL/blob/main/CS/TDD%20(47).md)
   - [Reflow Repaint](https://github.com/ohseungik/FE-TIL/blob/main/CS/Reflow%20Repaint%20(58).md)
