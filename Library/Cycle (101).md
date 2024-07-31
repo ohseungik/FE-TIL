@@ -37,9 +37,6 @@ __단점__
 - `class` 이름은 `View(DOM sink)`와 `Intent(DOM source)`가 동일한 요소를 나타내기 위해 사용할 수 있는 공통된 아티팩트다.
   - 전역 클래스 이름 충돌의 위험은 `isolate` 헬퍼로 인해 문제가 되지 않는다.
 
-## Example
-- https://github.com/wonism/TIL/tree/master/front-end/cyclejs/example
-
 ## Model-View-Intent
 - Model : Intent를 관찰 (정보 처리)
 - View : Model을 관찰 (유저에게 출력)
@@ -53,9 +50,6 @@ DOM Souce -> main -> DOM Sink
 ```
 DOM Source -> Intent -> Model -> View -> DOM Sink
 ```
-
-__MVI의 구현 예제__
-- https://github.com/wonism/TIL/tree/master/front-end/cyclejs/example
 
 ## Component
 - 다른 프레임워크 또는 라이브러리와 마찬가지로 모든 Cycle.js 앱은 더 큰 Cycle.js 앱의 컴퍼넌트로 사용될 수 있다.
