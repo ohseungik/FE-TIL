@@ -20,6 +20,8 @@ Today I Learned<br>
 ## Interview 준비
   - [브라우저 랜더링 원리](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Browser%20Rendering%20(104).md)
   - [Reflow Repaint가 일어나는 시점](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Reflow%20Repaint가%20일어나는%20시점%20(105).md)
+  - [주소창에 google.com을 입력하면 일어나는 일](https://github.com/ohseungik/FE-TIL/blob/main/Interview/What%20happens%20when%20type%20google%20(106).md)
+  - [호이스팅](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Hoisting%20(107).md)
 
 ## Library
   - [D3](https://github.com/ohseungik/FE-TIL/blob/main/Library/D3%20(98).md)
