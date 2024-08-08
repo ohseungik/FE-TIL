@@ -26,7 +26,8 @@ Today I Learned<br>
   - [Rest API](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Rest%20API%20(109).md)
   - [null-undefined-undeclared-NaN](https://github.com/ohseungik/FE-TIL/blob/main/Interview/null%20undefined%20undeclared%20nan(110).md)
   - [마이크로큐, 태스트큐](https://github.com/ohseungik/FE-TIL/blob/main/Interview/microtask%20queue%20task%20queu%20(111).md)
-
+  - [Sass Scss 차이](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Sass%20Scss%20(112).md)
+  - [HTML 랜더링중에 Javascript가 실행되면 랜더링이 멈추는 이유](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Why%20stop%20rendering%20(113).md)
 
 ## Library
   - [D3](https://github.com/ohseungik/FE-TIL/blob/main/Library/D3%20(98).md)
