@@ -28,6 +28,8 @@ Today I Learned<br>
   - [마이크로큐, 태스트큐](https://github.com/ohseungik/FE-TIL/blob/main/Interview/microtask%20queue%20task%20queu%20(111).md)
   - [Sass Scss 차이](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Sass%20Scss%20(112).md)
   - [HTML 랜더링중에 Javascript가 실행되면 랜더링이 멈추는 이유](https://github.com/ohseungik/FE-TIL/blob/main/Interview/Why%20stop%20rendering%20(113).md)
+  - [Arrow Function](https://github.com/ohseungik/FE-TIL/blob/main/Interview/ES6%20Arrow%20Function%20(114).md)
+  - [CORS 오류 대처 방안](https://github.com/ohseungik/FE-TIL/blob/main/Interview/CORS(115).md)
 
 ## Library
   - [D3](https://github.com/ohseungik/FE-TIL/blob/main/Library/D3%20(98).md)
