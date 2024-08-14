@@ -71,6 +71,8 @@ Today I Learned<br>
   - [MVVM](https://github.com/ohseungik/FE-TIL/blob/main/CS/MVVM%20(103).md)
   - [Github Pages 에 SPA 호스팅하기](https://github.com/ohseungik/FE-TIL/blob/main/CS/Hosting%20SPA%20(116).md)
   - [HTML5](https://github.com/ohseungik/FE-TIL/blob/main/CS/HTML5%20(117).md)
+  - [WASM](https://github.com/ohseungik/FE-TIL/blob/main/CS/WASM%20(120).md)
+  - [Gulp](https://github.com/ohseungik/FE-TIL/blob/main/CS/Gulp%20(121).md)
 
 ## React
   - [React 환경설정](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%20(1).md)
