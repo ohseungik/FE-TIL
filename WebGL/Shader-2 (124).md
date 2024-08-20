@@ -13,7 +13,7 @@
 
 [The Book of Shaders](https://thebookofshaders.com/05/)에 소개된 예제를 통해 GLSL에 더 익숙해져 보겠습니다.
 
-<img src="/docs/img/shader_book.png" />
+<img src="/Images/WebGL/shader_book.png" />
 
 <br>
 
@@ -52,7 +52,7 @@ void main() {
 
 위 코드의 결과물은 다음과 같이 좌우로 Linear한 그라데이션이 됩니다.
 
-<img src="/docs/img/shader_gradient.jpg">
+<img src="/Images/WebGL/shader_gradient.jpg">
 
 <br>
 
@@ -76,7 +76,7 @@ float colorValue = sqrt(st.x);
 
 <br>
 
-<img src="/docs/img/shader_gradient_varient.jpg">
+<img src="/Images/WebGL/shader_gradient_varient.jpg">
 
 <br>
 
@@ -94,7 +94,7 @@ float colorValue = step(0.5, st.x);
 
 <br>
 
-<img src="/docs/img/shader_step.jpg">
+<img src="/Images/WebGL/shader_step.jpg">
 
 <br>
 
@@ -109,7 +109,7 @@ float colorValue = smoothstep(0.4, 0.6, st.x);
 
 <br>
 
-<img src="/docs/img/shader_smoothstep.jpg">
+<img src="/Images/WebGL/shader_smoothstep.jpg">
 
 <br>
 
@@ -119,7 +119,7 @@ float colorValue = smoothstep(0.4, 0.6, st.x);
 
 다음과 같이 x 좌표와 y 좌표 값이 동일한 지점을 잇는 선을 그려볼텐데요. 특정 조건을 만족하는 영역에만 녹색을 입히고, 나머지 부분에는 색을 지정하지 않는 이분법적인 접근을 하면 되므로, `step`이나 `smoothstep` 함수를 활용할 수 있겠습니다.
 
-<img src="/docs/img/shader_line.jpg" >
+<img src="/Images/WebGL/shader_line.jpg" >
 
 <br>
 
@@ -163,7 +163,7 @@ void main() {
 
 <br>
 
-<img src="/docs/img/shader_gradient_and_line.jpg" >
+<img src="/Images/WebGL/shader_gradient_and_line.jpg" >
 
 <br>
 

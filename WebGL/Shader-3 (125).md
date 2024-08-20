@@ -99,7 +99,7 @@ void main(){
 
 렌더링 결과는 대략 이렇습니다.
 
-<img src="/docs/img/radial.jpg" />
+<img src="/Images/WebGL/radial.jpg" />
 
 <br>
 
@@ -154,7 +154,7 @@ void main() {
 
 아래와 같은 렌더링 결과를 얻을 수 있을겁니다.
 
-<img src="/docs/img/circle.jpg" />
+<img src="/Images/WebGL/circle.jpg" />
 
 <br>
 
