@@ -178,4 +178,5 @@ Today I Learned<br>
 ## Javascript
   - [MapSet](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/MapSet%20(132).md)
   - [Native](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Native%20(133).md)
-  
+  - [Symbol](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Symbol%20(134).md)
+  - [Array](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Array%20(135).md)
