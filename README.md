@@ -127,6 +127,8 @@ Today I Learned<br>
   - [TypeScript-7](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-7%20(33).md)
   - [TypeScript-8](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-8%20(34).md)
   - [TypeScript-9](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-9%20(35).md)
+  - [CheatSheet](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/CheatSheet%20(136).md)
+  - [Guard](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/Guard%20(137).md)
 
 ## Next
   - [Next-1](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-1%20(36).md)
