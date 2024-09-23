@@ -182,3 +182,7 @@ Today I Learned<br>
   - [Native](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Native%20(133).md)
   - [Symbol](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Symbol%20(134).md)
   - [Array](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Array%20(135).md)
+
+## WebAPI
+  - [VR](https://github.com/ohseungik/FE-TIL/blob/main/WebAPI/VR%20(138).md)
+  - [Barcode Detection](https://github.com/ohseungik/FE-TIL/blob/main/WebAPI/Barcode%20Detection%20(139).md)
