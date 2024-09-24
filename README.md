@@ -129,6 +129,7 @@ Today I Learned<br>
   - [TypeScript-9](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-9%20(35).md)
   - [CheatSheet](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/CheatSheet%20(136).md)
   - [Guard](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/Guard%20(137).md)
+  - [Type-Interface](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/Interface%20(140).md)
 
 ## Next
   - [Next-1](https://github.com/ohseungik/FE-TIL/blob/main/Next/Next-1%20(36).md)
@@ -182,6 +183,7 @@ Today I Learned<br>
   - [Native](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Native%20(133).md)
   - [Symbol](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Symbol%20(134).md)
   - [Array](https://github.com/ohseungik/FE-TIL/blob/main/Javascript/Array%20(135).md)
+  - [메모리 관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_management)
 
 ## WebAPI
   - [VR](https://github.com/ohseungik/FE-TIL/blob/main/WebAPI/VR%20(138).md)
