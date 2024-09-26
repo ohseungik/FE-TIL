@@ -188,3 +188,7 @@ Today I Learned<br>
 ## WebAPI
   - [VR](https://github.com/ohseungik/FE-TIL/blob/main/WebAPI/VR%20(138).md)
   - [Barcode Detection](https://github.com/ohseungik/FE-TIL/blob/main/WebAPI/Barcode%20Detection%20(139).md)
+
+## Web Security
+  - [CSRF](https://github.com/ohseungik/FE-TIL/blob/main/Web%20Security/CSRF%20(141).md)
+  - [XSS](https://github.com/ohseungik/FE-TIL/blob/main/Web%20Security/XSS%20(142).md)
