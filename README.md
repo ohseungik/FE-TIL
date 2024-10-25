@@ -77,7 +77,7 @@ Today I Learned<br>
   - [Gulp](https://github.com/ohseungik/FE-TIL/blob/main/CS/Gulp%20(121).md)
   - [FP](https://github.com/ohseungik/FE-TIL/blob/main/CS/FP%20(122).md)
   - [Animation Performance](https://github.com/ohseungik/FE-TIL/blob/main/CS/Animation%20Performance%20(127).md)
-  - [디자인 패턴](https://github.com/ohseungik/FE-TIL/blob/main/CS/Design%Pattern%20(143).md)
+  - [디자인 패턴](https://github.com/ohseungik/FE-TIL/blob/main/CS/Design%20Pattern%20(143).md)
 
 ## React
   - [React 환경설정](https://github.com/ohseungik/FE-TIL/blob/main/React/React%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%20(1).md)
