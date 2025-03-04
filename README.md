@@ -39,6 +39,7 @@ Today I Learned<br>
   - [Cycle](https://github.com/ohseungik/FE-TIL/blob/main/Library/Cycle%20(101).md)
   - [HandleBars](https://github.com/ohseungik/FE-TIL/blob/main/Library/HandleBars%20(102).md)
   - [Immutable Helpers](https://github.com/ohseungik/FE-TIL/blob/main/Library/Immutable%20Helpers%20(119).md)
+  - [Zod](https://github.com/ohseungik/FE-TIL/blob/main/Library/Zod%20(144).md)
 
 ## CS
   - [TDD](https://github.com/ohseungik/FE-TIL/blob/main/CS/TDD%20(47).md)
