@@ -118,6 +118,7 @@ Today I Learned<br>
   - [Controlled Component](https://github.com/ohseungik/FE-TIL/blob/main/React/Controlled%20Component%20(75).md) 
   - [env](https://github.com/ohseungik/FE-TIL/blob/main/React/env%20(92).md)
   - [React UI Framework](https://github.com/ohseungik/FE-TIL/blob/main/React/UI%20Framework%20(118).md)
+  - [Nuqs](https://github.com/ohseungik/FE-TIL/blob/main/React/Nuqs%20(145).md)
 
 ## TypeScript
   - [TypeScript-1](https://github.com/ohseungik/FE-TIL/blob/main/TypeScript/TypeScript-1%20(27).md)
